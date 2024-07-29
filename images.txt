@@ -1,1 +1,1 @@
-nvcr.io/nvidia/merlin/merlin-pytorch:23.02
+nvcr.io/nvidia/pytorch:24.07-py3
