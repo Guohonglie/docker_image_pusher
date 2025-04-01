@@ -1,2 +1,1 @@
-nvcr.io/nvidia/pytorch:24.11-py3
-hello-world
+nvcr.io/nvidia/pytorch:25.03-py3
